@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veterinary.Domain.Implementations", "Veterinary.Domain.Implementations\Veterinary.Domain.Implementations.csproj", "{8BF3D730-A1C0-4D96-B96A-5D54DB99BA83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.Business.Commons.Domain", "Library.Business.Commons.Domain\Library.Business.Commons.Domain.csproj", "{C549D759-DFDE-4B14-9CA9-DEAF4985AE8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veterinary.Shared.Infrastructure.Persistence.MongoDB", "Veterinary.Shared.Infrastructure.Persistence.MongoDB\Veterinary.Shared.Infrastructure.Persistence.MongoDB.csproj", "{254A2D41-9728-4D9A-B0BD-4143A45D972D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BF3D730-A1C0-4D96-B96A-5D54DB99BA83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF3D730-A1C0-4D96-B96A-5D54DB99BA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF3D730-A1C0-4D96-B96A-5D54DB99BA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF3D730-A1C0-4D96-B96A-5D54DB99BA83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C549D759-DFDE-4B14-9CA9-DEAF4985AE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C549D759-DFDE-4B14-9CA9-DEAF4985AE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C549D759-DFDE-4B14-9CA9-DEAF4985AE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C549D759-DFDE-4B14-9CA9-DEAF4985AE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{254A2D41-9728-4D9A-B0BD-4143A45D972D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254A2D41-9728-4D9A-B0BD-4143A45D972D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254A2D41-9728-4D9A-B0BD-4143A45D972D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254A2D41-9728-4D9A-B0BD-4143A45D972D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
